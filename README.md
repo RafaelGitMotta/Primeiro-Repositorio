@@ -1,4 +1,5 @@
 # Primeiro Repositório
  Respositório de teste
 
- Testando a função de envio
+ Testando o envio
+ Operação de puxar do Github para o GIT 
